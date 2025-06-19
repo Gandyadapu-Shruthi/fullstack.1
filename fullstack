@@ -1,0 +1,31 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- multi midea tags
+     audio
+     video
+      -->
+     <img src="./images.html/html logo.JPG" alt="" width="300">
+     <img src="./images.html/css.png" alt="" width="300">
+     <img src="./images/cat.jpeg" alt="" width="300">
+     <img src="./images/cat.jpeg" alt="" width="300">
+
+      
+      <!-- &nbsp; space -->
+       &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="./images/download.png" alt="" width="100">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="./images/download.png" alt="" width="100">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="./images/download.png" alt="" width="100">
+      &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+      <img src="./images/download.png" alt="" width="100">
+
+</body>
+</html>
